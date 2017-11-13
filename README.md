@@ -1,8 +1,3 @@
-# Angular Full Stack [![Dependencies](https://david-dm.org/DavideViolante/Angular-Full-Stack.svg)](https://david-dm.org/DavideViolante/Angular2-Full-Stack) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![MIT license](http://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
-
-
-The frontend is generated with [Angular CLI](https://github.com/angular/angular-cli). The backend is made from scratch. Whole stack in [TypeScript](https://www.typescriptlang.org).
-
 This project uses the [MEAN stack](https://en.wikipedia.org/wiki/MEAN_(software_bundle)):
 * [**M**ongoose.js](http://www.mongoosejs.com) ([MongoDB](https://www.mongodb.com)): database
 * [**E**xpress.js](http://expressjs.com): backend framework
@@ -49,13 +44,6 @@ A window will automatically open at [localhost:4200](http://localhost:4200). Ang
 13. `git push heroku master`
 14. `heroku open` and a window will open with your app online
 
-## Preview
-![Preview](https://raw.githubusercontent.com/DavideViolante/Angular2-Full-Stack/master/demo.gif "Preview")
-
-## Please open an issue if
-* you have any suggestion to improve this project
-* you noticed any problem or error
-
 ## To do
 * More tests
 
@@ -72,11 +60,9 @@ Run `mongod` to run an instance of MongoDB, then run `npm run testbe` to execute
 ## Running TSLint
 Run `ng lint` (frontend) and `npm run lintbe` (backend) to execute the linter via [TSLint](https://palantir.github.io/tslint/).
 
-## Wiki
-To get more help about this project, [visit the official wiki](https://github.com/DavideViolante/Angular-Full-Stack/wiki).
 
 ## Further help
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ### Author
-* [Davide Violante](https://github.com/DavideViolante)
+* [Paul](https://github.com/paultofunmi)

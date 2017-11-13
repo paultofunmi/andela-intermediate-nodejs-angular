@@ -2,7 +2,7 @@
   "name": "angular2-full-stack",
   "version": "4.2.4",
   "license": "MIT",
-  "author": "Davide Violante",
+  "author": "Paul Tofunmi",
   "description": "Angular Full Stack project built using Angular 2+, Express, Mongoose and Node.",
   "angular-cli": {},
   "engines": {
